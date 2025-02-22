@@ -18,6 +18,7 @@ links.forEach((link, i) => {
     })
 })
 
+
 const firebaseConfig = {
     apiKey: "AIzaSyASXU7DsYZsoIsIpPJ4tycped56LtdtGoE",
     authDomain: "my-portfolieo.firebaseapp.com",
